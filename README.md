@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
 
-## Initilize Development
+## Initilize development
 
 Run `npm install` to install all the required dependencies in your local project. These dependencies should not be checked into source code repository.
 
